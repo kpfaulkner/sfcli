@@ -1,0 +1,4 @@
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/simpleforce/simpleforce v0.0.0-20201016131803-2062cbbdbb89 h1:tEZjToo2vz8l05e7u4lk2sknIzAitkdSS++8C6jS4Tc=
+github.com/simpleforce/simpleforce v0.0.0-20201016131803-2062cbbdbb89/go.mod h1:abS7k7nPhcNtzsAsfzOedGmI7yU0PDzQVwlHJZwGgOs=
